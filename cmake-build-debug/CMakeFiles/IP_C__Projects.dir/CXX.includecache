@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../std_lib_facilities.h
+iostream
+-
+iomanip
+-
+fstream
+-
+sstream
+-
+cmath
+-
+cstdlib
+-
+string
+-
+list
+-
+forward_list
+-
+vector
+-
+unordered_map
+-
+algorithm
+-
+array
+-
+regex
+-
+random
+-
+stdexcept
+-
+
+/Users/moofiy/Moofiy/InnoLocal/IP_C++Projects/lab6/Q2/MoneyRefine.cpp
+../std_lib_facilities.h
+/Users/moofiy/Moofiy/InnoLocal/IP_C++Projects/lab6/std_lib_facilities.h
+
